@@ -1,4 +1,4 @@
 # FreeRTOS_AVR
 libraries arduino
 
-example sensor_relay you can test by ldr and infrared sensor
+example sensor_relay can test by ldr and infrared sensor
